@@ -1,0 +1,11 @@
+name = "savaspinbet-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=savaspinbet.gr"
+HMAC_KEY = "3ffec8eaf8c1ab0e5b02b02593b0d216d877cca20dfe5831ed1b2007f5d3275e"
+COOKIE_NAME = "uzz"
+PLAY_PATH = "start"
+BUTTON_ID = "p191f478624c6faffba54de9e23756699"
+GATE_SALT = "cb240e239370c2ec"
